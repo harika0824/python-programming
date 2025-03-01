@@ -1,2 +1,3 @@
-# python-programming
-#beginner,expert python code
+#25&26
+task1
+#27&28
